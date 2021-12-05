@@ -1,0 +1,9 @@
+.d-flex {
+  flex-wrap: wrap;
+}
+.d-flex > div {
+  width: calc(93% / 7);
+  margin-right: 1%;
+  margin-bottom: 10px;
+  height: 180px;
+}
